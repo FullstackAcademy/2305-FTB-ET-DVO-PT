@@ -12,4 +12,4 @@ The Terraform files involved are:
 - variables.tf - defines a couple key variables used in main.tf
 
 ### High-level Diagram of Solution
-![Untitled Diagram drawio (1)](https://github.com/FullstackAcademy/2305-FTB-ET-DVO-PT/assets/87505099/d487a461-fc2a-4de2-8aae-fe5560bf1b73)
+![Untitled Diagram drawio (1)](https://github.com/FullstackAcademy/2305-FTB-ET-DVO-PT/assets/87505099/78880f65-9a9a-44f6-9fd2-9f2acf830f81)
